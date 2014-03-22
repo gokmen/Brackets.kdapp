@@ -13,7 +13,7 @@
   "author": "Gokmen Goksel",
   "authorNick": "gokmen",
   "repository": "git://github.com/gokmen/brackets.kdapp.git",
-  "description": "Brackets : a Koding application created with the blank template.",
+  "description": "Brackets : This is an early version of Brackets, a code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.",
   "category": "web-app",
   "source": {
     "blocks": {
